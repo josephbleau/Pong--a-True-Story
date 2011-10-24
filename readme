@@ -1,5 +1,9 @@
 Pong, a True Story is an action side-scroller written in C++.
 
+A recent Windows binary can be found here:
+
+	http://www.josephbleau.com/PATS.exe
+
 You can obtain the required data to run the game here: 
 	
 	http://www.josephbleau.com/pats_data.rar
@@ -12,6 +16,10 @@ Other dependencies include:
 
 	SDL, SDL_image, SDL_mixer, SDL_rotozoom, libxml, and zlib
 
+Doxygen Docs:
+
+	http://www.josephbleua.com/pats_dox
+	
 All questions, comments, or suggestions:
 
 	jbleau [at] gmail [dot] com
